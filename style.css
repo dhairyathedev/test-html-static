@@ -2,3 +2,8 @@ body{
     background-color: blue;
     color: white;
 }
+
+.img1{
+    margin-top: 40px;
+    border-radius: 50px;
+}
